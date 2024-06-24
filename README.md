@@ -8,7 +8,7 @@ The main goal of this project is to utilize Power BI to develop an interactive p
 
 **METHODOLOGY**
 
-1 .Data Collection: Gathered raw sales data.
+1. Data Collection: Gathered raw sales data.
 
 2. Data Cleaning: Ensured the data was clean and properly formatted.
 
