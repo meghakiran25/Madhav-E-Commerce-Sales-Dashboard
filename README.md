@@ -17,7 +17,8 @@ The main goal of this project is to utilize Power BI to develop an interactive p
 4. Data Visualization: Created a user-friendly and engaging dashboard.
 
 **INSIGHTS**
-Here are the key insights from the data:
+
+Here are the key insights :
 
 1. The months of January, March, August, October, and November recorded the highest profits
 
@@ -32,7 +33,7 @@ Here are the key insights from the data:
 6. Printers is the sub-category under electronics that generated the most profits throughout the year.
 
 
-   **CONCLUSION**
+**CONCLUSION**
 
 By harnessing these insights, we can strategically focus on peak sales months (January, March, August, October, November) to maximize profitability. Targeting key states such as Maharashtra, Madhya Pradesh, Uttar Pradesh and  Delhi will be crucial for expanding our market share. Emphasizing the clothing category and optimizing the cash on delivery (COD) payment method can enhance customer satisfaction and drive sales. By nurturing relationships with top-profit customers and exploring growth opportunities in high-performing sub-categories (Printers, Bookcases, Accessories, Tables) under electronics ,we aim to sustain profitability and strengthen our position in the competitive e-commerce sector.
    
