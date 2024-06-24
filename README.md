@@ -3,13 +3,17 @@
 
 
 **OBJECTIVE**
+
 The main goal of this project is to utilize Power BI to develop an interactive platform for exploring trends and analyzing sales data from Madhav Store.
 
 **METHODOLOGY**
 
-Data Collection: Gathered raw sales data.
-Data Cleaning: Ensured the data was clean and properly formatted.
-Data Analysis: Prepared data for analysis.
-Data Visualization: Created a user-friendly and engaging dashboard.
+1 .Data Collection: Gathered raw sales data.
+
+2. Data Cleaning: Ensured the data was clean and properly formatted.
+
+3. Data Analysis: Prepared data for analysis.
+
+4. Data Visualization: Created a user-friendly and engaging dashboard.
 
 **INSIGHTS**
